@@ -1,0 +1,2 @@
+# ![Vampirism Wall Climb](https://cdn.discordapp.com/attachments/724983669114142751/1259607491873079357/vamp_logo.png?ex=668c4c64&is=668afae4&hm=02fbf734f7ff5d8571ef7827bfd20b32bf53ff5a7d293303503967c98608ef0a&) Sub-Addon for Vampirism, "Wall Climb" (Ripples of the Past addon)
+An addon mod for [Ripples of the Past](https://github.com/StandoByte/Ripples-of-the-Past), a mod for Minecraft based on JoJo's Bizarre Adventure.
