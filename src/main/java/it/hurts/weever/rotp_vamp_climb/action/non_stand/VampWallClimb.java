@@ -37,7 +37,6 @@ public class VampWallClimb extends VampirismAction {
     protected void holdTick(World world, LivingEntity user, INonStandPower power, int ticksHeld, ActionTarget target, boolean requirementsFulfilled) {
         if (world.isClientSide() && user.horizontalCollision) {
             Vector3d movement = user.getLookAngle();
-//            int final_energy = (int) (0.1D + (power.getEnergy() * 0.0025 + power.getMaxEnergy() * 0.0025));
             int final_energy = 4;
             user.setDeltaMovement(movement.x / final_energy, movement.y / final_energy, movement.z / final_energy);
         }
